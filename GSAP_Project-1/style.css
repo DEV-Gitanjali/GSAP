@@ -39,3 +39,29 @@ body,html{
     font-weight: 400;
 
 }
+
+#main h1{
+    font-size: 120px;
+    font-weight: 300;
+    text-transform: uppercase;
+    line-height: 120px;
+    /* background-color: red; */
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+#main h1:nth-child(2){
+    margin-top: 100px;
+}
+
+#main h1:nth-child(3){
+    text-align: center;
+}
+
+
+#main h1:nth-child(4){
+    text-align: center;
+
+}
+
