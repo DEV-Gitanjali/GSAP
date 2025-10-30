@@ -1,0 +1,10 @@
+what is GSAP ?
+->  it's basically javascript animation library
+
+What is Animation  ?
+
+-> Animation is the process of showing a series of images or changes in objects over time to create the illusion of movement.
+In simple words, animation makes things move or change smoothly on the screen.
+-> When something changes from one state to another with motion, like moving, rotating, fading, growing, bouncing — that is animation.
+
+It can be small (like a button changing color) or big (like a cartoon character walking or a car moving).
