@@ -16,6 +16,8 @@
 //     rotate:360,
 //     backgroundColor:"blue",
 //     delay:1
+    //    yoyo:true,
+    //    repeat:-1
 // })
 
 // GSAP TimeLine
@@ -47,3 +49,5 @@ tl.to("#box3" , {
     // delay:1
 
 })
+
+var tl = gsap.timeline({repeat:-1 , yoyo:true})
